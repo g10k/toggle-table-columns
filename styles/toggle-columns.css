@@ -1,0 +1,10 @@
+ul.toggle-columns {
+    display:inline-block;
+    padding-left:10px;
+    padding-right:10px;
+}
+
+ul.toggle-columns li {
+    margin-right:5px;
+    margin-left:5px;
+}

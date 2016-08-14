@@ -1,0 +1,10 @@
+{
+    "name": "toggle-table-columns",
+    "version": "0.0.1",
+    "main":  "dist/toggle_columns.js",
+    "ignore": [
+    ],
+    "dependencies": {
+        "jquery": ">=2.0.3"
+    }
+}
